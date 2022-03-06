@@ -10,3 +10,4 @@ File 8-firstdelete deletes the file betty in /tmp/my_first_directory
 File 9-firstdirdeletion deletes the directory my_first_directory from /tmp directory
 File 10-back changes the working directory to the previous one
 File 11-lists lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+File 12-file_type prints out the type of the file named iamafile in /tmp directory
