@@ -7,3 +7,4 @@ File 5-execute adds execute permission to the owner of the file hello
 File 6-multiple_permissions adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 File 7-everybody adds execute permissions to the owner, the group owner and the other users, to the file hello
 File 8-James_Bond sets the permissions to the file hello as follows: owner has no permission at all, group no permission at all and other users have all the permissions
+File 9-John_Doe sets the mode of the file hello to "-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello" 
