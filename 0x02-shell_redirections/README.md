@@ -1,1 +1,1 @@
-File 0-hello_world prints "Hello, World"
+\nFile 1-confused_smiley displays a confused smiley
