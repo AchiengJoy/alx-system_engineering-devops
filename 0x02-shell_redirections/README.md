@@ -29,3 +29,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 13-unique takes a list of words as input and prints only words that appear exactly once.
 \n\nFile 14-find thhat word displays lines containing the pattern "root" from the file /etc/passwd.
 \n\nFile 15-countthatword displys the number of lines that contain the pattern "bin" in the file /etc/passwd
+\n\nFile 16-whatsnext displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
