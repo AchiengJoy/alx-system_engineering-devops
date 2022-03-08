@@ -31,3 +31,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 15-countthatword displys the number of lines that contain the pattern "bin" in the file /etc/passwd
 \n\nFile 16-whatsnext displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 \n\nFile 17-hidethis word displays all the lines in the file /etc/passwd that do not contain the pattern "bin"
+\n\nFile 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter
