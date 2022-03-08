@@ -34,3 +34,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 18-letteronly displays all lines of the file /etc/ssh/sshd_config starting with a letter
 \n\nFile 19-AZ replaces all characters A and c from input to z and e respectively.
 \n\nFile 20-hiago removes all letters c and C from input.
+ \n\nFile 21-reverse reverses its input.
