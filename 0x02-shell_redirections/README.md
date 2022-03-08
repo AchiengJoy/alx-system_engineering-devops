@@ -28,3 +28,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 12-newest_files displays the 10 newest files in the current directory
 \n\nFile 13-unique takes a list of words as input and prints only words that appear exactly once.
 \n\nFile 14-find thhat word displays lines containing the pattern "root" from the file /etc/passwd.
+\n\nFile 15-countthatword displys the number of lines that contain the pattern "bin" in the file /etc/passwd
