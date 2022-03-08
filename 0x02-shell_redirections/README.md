@@ -24,3 +24,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 9-duplicate_last_line duplicates the last line of the file iacta
 \n\nFile 10-no_more_js deletes all the regular files with a .js extention that are present in the current directory and all its subfolders
 \n\nFile 11-directories counts the number of directories and subdirectories in the currect directory.
+\n\nFile 11-directories counts the number of directories and subdirectories in the current directory.
