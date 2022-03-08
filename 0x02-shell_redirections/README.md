@@ -35,3 +35,4 @@ File 7-file creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) cont
 \n\nFile 19-AZ replaces all characters A and c from input to z and e respectively.
 \n\nFile 20-hiago removes all letters c and C from input.
  \n\nFile 21-reverse reverses its input.
+\n\nFile 22-users_and_homes displays all users and their home directories, sorted buy users.
