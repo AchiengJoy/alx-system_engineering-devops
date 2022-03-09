@@ -8,3 +8,4 @@ File 0-alias creates an alias
 \n\nFile 7-create_global_variable creates a new global variable
 \n\nFile 8-true_knowledge prints the result of the addittion of 128 wiyth the value stored in the environment variable TRUEKNOWLEDGE
 \n\nFile 9-divide_and_rule prints the result of POWER divided by DIVIDE.
+\n\nFie 10-love_exponent_breath displays the result of BREATH to the power of LOVE
