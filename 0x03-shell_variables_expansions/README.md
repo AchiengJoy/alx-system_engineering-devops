@@ -6,3 +6,4 @@ File 0-alias creates an alias
 \n\nFile 5-local_variables lists all local variables and environmental variables, and functions
 \n\nFile 6-create_local_variable creates a new local variable
 \n\nFile 7-create_global_variable creates a new global variable
+\n\nFile 8-true_knowledge prints the result of the addittion of 128 wiyth the value stored in the environment variable TRUEKNOWLEDGE
